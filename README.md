@@ -32,5 +32,5 @@ I. **Programming Language**: Mix runwayML + processing and Keras + plaidML, whil
       * 3. to learn Keras (not required learning objective)
 
 II. **Training**: experiment with RunwayML and Colab to train while F19 was using Intel DevCloud:
-  1. use [Jupyter notebook(https://jupyter.org/)] as IDE
-  2. consider [Colab](https://colab.research.google.com/notebooks/welcome.ipynb) for training (TBA) 
+  1. use [Jupyter notebook(https://jupyter.org/)] as IDE.
+  2. use [Colab](https://colab.research.google.com/notebooks/welcome.ipynb) for training.
