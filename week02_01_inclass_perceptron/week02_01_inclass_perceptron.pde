@@ -2,8 +2,7 @@
 
 //by Aven Le ZHOU (https://www.aven.cc)
 // artMahcines & NYU Shanghai
-// aiarts, spring 2020
-// https://github.com/artmachines/aiarts2020
+// aiarts, course website: https://wp.nyu.edu/shanghai-ima-aiarts/
 
 Point [] pts; //declare the array
 //Point [] pts = new Point[1000];
