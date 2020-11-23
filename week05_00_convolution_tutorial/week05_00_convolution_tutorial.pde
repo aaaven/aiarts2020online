@@ -2,14 +2,12 @@
 
 // by Aven Le ZHOU (https://www.aven.cc)
 // artMahcines & NYU Shanghai
-// aiarts, spring 2020
-// https://github.com/artmachines/aiarts2020
+// aiarts https://github.com/artmachines/aiarts2020online
 
 // videos: 
-// aiarts S20 week06 [pre-recoded] Convolution Explained: https://nyu.zoom.us/rec/share/vOgoJpvV9ltJAZ2cz2CAUKsKT62ieaa82yUY-aBcnUtWpaDUcF5WMLdVe8dMz5vm?startTime=1584769777000
-// aiarts S20 week06 [pre-recorded] kernal: https://nyu.zoom.us/rec/share/u_YscOzB7EpOQYHM51ngSoh_II3oeaa8hCcc-_BYzk7Qg18bacLh859WAWquiRJD?startTime=1584770985000
-// aiarts S20 week06 [pre-recorded] convolution: https://nyu.zoom.us/rec/share/tJ11BIjWxnxOTIHC-WHASK8bMLrqT6a81XIW-vANzR6zaGDPy1km3zR3W5E-1M2r?startTime=1584772793000
-
+// aiarts f20 week05 [pre-recoded] Convolution Explained
+// aiarts f20 week05 [pre-recorded] kernal
+// aiarts f20 week05 [pre-recorded] convolution
 
 // an operation go through every pixel in the original image
 // when with single pixel - center pixel, 
